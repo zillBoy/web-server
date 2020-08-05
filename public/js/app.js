@@ -1,0 +1,1 @@
+console.log("Client side javaScrpipt page is loaded")
